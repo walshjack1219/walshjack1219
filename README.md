@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there👋
 
-<!--
-**walshjack1219/walshjack1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jack Walsh
 
-Here are some ideas to get you started:
+#### about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻Computer Engineering Student
+- 🏫RVCC
+- 🎮PC is best
+
+###BIO:
+
+One of things I'm truly passionate about is computers. Building them, coding,
+and gaming take up alot of my time. When I'm not on my computer, I'm studying 
+them, as well as a bunch of math and engineering stuff. I also spend alot of time
+listening to music.
+
+If you listen to any of these bands...
+
+-Mastodon
+-Gojira
+-Dream Theater
+-Opeth
+-Baroness
+-Alice in Chains
+
+...you already know me pretty well. 
+
+
