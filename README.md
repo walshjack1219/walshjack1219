@@ -18,10 +18,15 @@ listening to music.
 If you listen to any of these bands...
 
 -Mastodon
+
 -Gojira
+
 -Dream Theater
+
 -Opeth
+
 -Baroness
+
 -Alice in Chains
 
 ...you already know me pretty well. 
